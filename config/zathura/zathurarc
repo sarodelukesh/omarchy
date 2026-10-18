@@ -1,0 +1,43 @@
+# Tokyo Night color scheme for Zathura
+
+# UI Elements
+set default-bg                  "#1a1b26"
+set default-fg                  "#c0caf5"
+
+set statusbar-bg                "#16161e"
+set statusbar-fg                "#a9b1d6"
+
+set inputbar-bg                 "#1a1b26"
+set inputbar-fg                 "#7aa2f7"
+
+set index-bg                    "#1a1b26"
+set index-fg                    "#c0caf5"
+set index-active-bg             "#24283b"
+set index-active-fg             "#7aa2f7"
+
+# Completions
+set completion-bg               "#24283b"
+set completion-fg               "#7aa2f7"
+set completion-highlight-bg     "#414868"
+set completion-highlight-fg     "#7aa2f7"
+
+# Document Highlighting
+set highlight-color             "#e0af68"
+set highlight-active-color      "#ff9e64"
+
+# Notifications
+set notification-bg             "#16161e"
+set notification-fg             "#9ece6a"
+set notification-error-bg       "#16161e"
+set notification-error-fg       "#f7768e"
+set notification-warning-bg     "#16161e"
+set notification-warning-fg     "#e0af68"
+
+# PDF Recolor (Dark Mode Configuration)
+set recolor                     "true"
+set recolor-lightcolor          "#1a1b26"
+set recolor-darkcolor           "#c0caf5"
+
+# Optional: Preserve original image hues while keeping the dark background
+set recolor-keephue             "false"
+
